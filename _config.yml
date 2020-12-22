@@ -14,7 +14,7 @@ author: Oliver Groth
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Research: "research"
   Publications:
     - RELATE: "https://geometry.cs.ucl.ac.uk/projects/2020/relate/"
